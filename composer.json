@@ -3,7 +3,7 @@
     "description": "tool-helper",
     "autoload": {
         "psr-4": {
-            "Liukun\\ToolHelper\\": "src/"
+            "Doe\\ToolHelper\\": "src/"
         }
     },
     "authors": [
@@ -12,6 +12,7 @@
         }
     ],
     "require": {
-        "php": "^7.1.3 || ^8.0"
+        "php": "^7.1.3 || ^8.0",
+        "ext-openssl": "*"
     }
 }

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Liukun\ToolHelper\DateHelper;
+namespace Doe\ToolHelper\DateHelper;
 
 use Exception;
 
