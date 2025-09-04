@@ -1,11 +1,6 @@
 <?php
 
 declare(strict_types=1);
-/**
- * 安陌直播项目 [Hyperf版本]--直播系统
- * (c) 多播网络科技有限公司。保留所有权利。
- * @anchor 多播网络科技有限公司
- */
 
 namespace Doe\ToolHelper\DataSecurity;
 
