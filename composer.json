@@ -1,5 +1,5 @@
 {
-    "name": "liukun/tool-helper",
+    "name": "doe/tool-helper",
     "description": "tool-helper",
     "autoload": {
         "psr-4": {
